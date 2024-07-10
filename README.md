@@ -20,7 +20,6 @@ Traditional server rendered e-commerce store built on Spring Framework for learn
 <img width="1000" alt="Untitled" src="https://github.com/Nguyenvu11/Panda-Shop/assets/85069392/bb6260af-d25d-4a76-84fc-fbaaf70b772f">
 <img width="1000" alt="Untitled3" src="https://github.com/Nguyenvu11/Panda-Shop/assets/85069392/cebd2ae1-02f7-42a1-a5da-e56fffdf7a3e">
 <img width="1000" alt="Untitled2" src="https://github.com/Nguyenvu11/Panda-Shop/assets/85069392/ffef8406-93c4-456b-bb05-87d2727165bb">
-<img width="1000" alt="Untitled1" src="https://github.com/Nguyenvu11/Panda-Shop/assets/85069392/df5a0ce0-9bec-4ca0-91ef-ea1716ef210b">
 
 ### Aditional info
 The data was taken from MercadoLibre.com public API using a simple python script. 

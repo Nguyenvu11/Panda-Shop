@@ -17,10 +17,6 @@ Traditional server rendered e-commerce store built on Spring Framework for learn
 * Create and edit user profile, view orders history.
 * Responsive design.
 
-<img width="1000" alt="HomePanda" src="https://github.com/Nguyenvu11/Panda-Shop/assets/85069392/7338e8d0-7864-4cc6-aac8-41daf877f46c">
-<img width="1000" alt="HomePanda1" src="https://github.com/Nguyenvu11/Panda-Shop/assets/85069392/06802413-e46f-4953-ad13-f69ae050fb95">
-<img width="1000" alt="HomePanda2" src="https://github.com/Nguyenvu11/Panda-Shop/assets/85069392/0c3b3ef6-7dde-42da-bdbd-5f139f9cd573">
-<img width="1000" alt="DetailsPanda" src="https://github.com/Nguyenvu11/Panda-Shop/assets/85069392/58bfb275-2b49-4a7f-9932-d387d30a3ce3">
 
 
 ### Aditional info

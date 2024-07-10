@@ -1,4 +1,4 @@
-<img width="427" alt="image" src="https://github.com/Nguyenvu11/Panda-Shop/assets/85069392/2d0c39e6-acf0-4986-bfde-3d0c9dcf72e1"># Spring-Panda Shop
+# Spring-Panda Shop
 Traditional server rendered e-commerce store built on Spring Framework for learning purposes. 
 
 ### TECHNOLOGIES:
